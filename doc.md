@@ -18,11 +18,10 @@ monBoutton = new QPushButton("ceci est un bouton",this);
 
 resultat
 
-![](C:\Users\foxlo\AppData\Roaming\marktext\images\2022-04-12-09-17-31-image.png)
+![](Image/test.png)
 
 - ## comment faire un texte label
-
-.h
+- h
 
 ```cpp
 QLabel *monTexte;
@@ -200,8 +199,6 @@ il ne faut pas oublier d'utiliser les disconnect.
 ## ajout du systeme de fausse donnée
 
 avec le systemeconnect on peut fait faire un systeme de timer me permettant de generer de fausse donnée
-
-
 
 ## avec les image
 
